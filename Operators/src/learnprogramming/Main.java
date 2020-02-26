@@ -95,6 +95,5 @@ public class Main {
         if(!isNoRemainder){
             System.out.println("Got some remainder");
         }
-
     }
 }
