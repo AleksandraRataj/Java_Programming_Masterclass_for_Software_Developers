@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b1e2c68-fdaa-4029-8c65-bf5ceb1ad12d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWficjliFP5BoEe9OMhKdGckZ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnprogramming.Challenge" />
+      <module name="SetsAndHashSets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learnprogramming.Main" />
+      <module name="SetsAndHashSets" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnprogramming.SetMain" />
+      <module name="SetsAndHashSets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SetMain" />
+        <item itemvalue="Application.Challenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b1e2c68-fdaa-4029-8c65-bf5ceb1ad12d" name="Default Changelist" comment="" />
+      <created>1584959898720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584959898720</updated>
+      <workItem from="1584959902254" duration="4557000" />
+      <workItem from="1584978867834" duration="9000" />
+      <workItem from="1585083638067" duration="2360000" />
+      <workItem from="1585218043674" duration="3639000" />
+      <workItem from="1585430428652" duration="879000" />
+      <workItem from="1586169786804" duration="4550000" />
+      <workItem from="1586431140181" duration="1923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="974" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1586433325395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="974" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586433325395" />
+    <state width="665" height="2" key="GridCell.Tab.0.bottom" timestamp="1586433813952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="665" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586433813952" />
+    <state width="665" height="2" key="GridCell.Tab.0.center" timestamp="1586433813951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="665" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586433813951" />
+    <state width="665" height="2" key="GridCell.Tab.0.left" timestamp="1586433813951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="665" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586433813951" />
+    <state width="665" height="2" key="GridCell.Tab.0.right" timestamp="1586433813952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="665" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586433813952" />
+    <state x="864" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1586431195299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="864" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586431195299" />
+    <state x="418" y="33" key="new project wizard" timestamp="1586433811889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586433811889" />
+  </component>
+</project>
