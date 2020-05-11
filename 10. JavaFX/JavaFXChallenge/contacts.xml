@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Tim</first_name>
+	<last_name>Buchalka</last_name>
+	<phone_number>123456789</phone_number>
+	<notes>notes</notes>
+</contact>
+<contact>
+	<first_name>Tim</first_name>
+	<last_name>Buchalka</last_name>
+	<phone_number>123456789</phone_number>
+	<notes>my notes</notes>
+</contact>
+<contact>
+	<first_name>ktos</first_name>
+	<last_name>yghu</last_name>
+	<phone_number>45244243</phone_number>
+	<notes>evinn</notes>
+</contact>
+<contact>
+	<first_name>sdfg</first_name>
+	<last_name>sdfg</last_name>
+	<phone_number>1234</phone_number>
+	<notes>sdf</notes>
+</contact>
+</contacts>
